@@ -1,0 +1,17 @@
+Real Time Editor  ~  V: 1.00
+Developed by:-
+Abhisek Ganguly
+Instagram : https://www.instagram.com/abhirocks2002/
+Google+ : Devil GAMER!
+Mail Me At : meaw221bbaker@gmail.com
+
+To save a file copy the file from copy to clipboard button and then paste it 
+in a text editor. Now save the file using the '.html' extension.
+
+//** This Doesn't works in Internet Explorer and Microsoft Edge**//
+
+***Button to save file locally is coming soon...***
+
+cheers!!!
+
+Happy Designing...
